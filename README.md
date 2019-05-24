@@ -10,9 +10,11 @@ This project is done as part of Msc thesis
 7.output.txt -- chatbot output after testing
 8.complete.h5 -- this is the trained model weights for MT model
 9. text.file -- input text file for chatbot
-
+10.chatoutput1.txt -- output of chatbot for all the training and testing.
 Details steps for execution
 Place all these files in the same project.
 Complete_chatbot_sentiment model.py -- run -- for sentiment analysis and emotion analysis of Chatbots.
+
 Machine_translation.py -- run -- for MT model. In Mt model, no need to  run all the steps. load the file complete.h5 to porject and run from the step of loading the weights.
+
 
