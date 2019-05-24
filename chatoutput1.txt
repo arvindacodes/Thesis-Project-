@@ -1,0 +1,49 @@
+titanic is a very good movie 	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.556, "pos": 0.444, "compound": 0.4927}
+++titanic is aweome movie	Joy	Positive	Joy
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++titanic movie was awesome	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.423, "pos": 0.577, "compound": 0.6249}
+++i do not like  movies	Joy	Negative	sad
+{"neg": 0.413, "neu": 0.587, "pos": 0.0, "compound": -0.2755}
+++i am very happy for this movie	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.556, "pos": 0.444, "compound": 0.6115}
+++i am very happy to watch movie	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.556, "pos": 0.444, "compound": 0.6115}
+++hi	Joy	Positive	Joy
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++hi	Joy	Positive	Joy
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++hi	Joy	Positive	Joy
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++ the movie was awesome titanic	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.494, "pos": 0.506, "compound": 0.6249}
+++but the movie was not good	Joy	Negative	sad
+{"neg": 0.383, "neu": 0.617, "pos": 0.0, "compound": -0.4782}
+++it was pathetic to see them cry	Sad	Negative	Sad
+{"neg": 0.576, "neu": 0.424, "pos": 0.0, "compound": -0.7783}
+++how are you	Joy	Negative	sad
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++titanic was a very good movie	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.556, "pos": 0.444, "compound": 0.4927}
+++i love the movie titanic	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.417, "pos": 0.583, "compound": 0.6369}
+++i am in love with movie titanic	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.543, "pos": 0.457, "compound": 0.6369}
+++kids are annoying	Angry	Positive	Angry
+{"neg": 0.574, "neu": 0.426, "pos": 0.0, "compound": -0.4019}
+++https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.htmlhttps://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html	Joy	Negative	sad
+{"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++hilarious	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.4019}
+++

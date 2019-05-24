@@ -1,0 +1,21 @@
+i am excited for avengers movies	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.625, "pos": 0.375, "compound": 0.34}
+Avengers is a awesome movie.I keep watching it over and over.	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.536, "pos": 0.464, "compound": 0.8316}
+
+i am surprised to see a very good story	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.495, "pos": 0.505, "compound": 0.624}
+It is not good.	Joy	Negative	Joy
+{"neg": 0.264, "neu": 0.329, "pos": 0.406, "compound": 0.3169}
+
+it is annoying to see kids shouting 	Angry	Negative	Angry
+{"neg": 0.31, "neu": 0.69, "pos": 0.0, "compound": -0.4019}
+The kids are annoying they are very sweet.	Angry	Positive	Angry
+{"neg": 0.16, "neu": 0.474, "pos": 0.367, "compound": 0.5413}
+
+i am depressed over the ending	Sad	Positive	joy
+{"neg": 0.452, "neu": 0.548, "pos": 0.0, "compound": -0.5106}
+There is a brilliant twist ending.
+"	Joy	Positive	Joy
+{"neg": 0.0, "neu": 0.348, "pos": 0.652, "compound": 0.8176}
+
